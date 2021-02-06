@@ -6,7 +6,18 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 ## Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
 How many Vine reviews and non-Vine reviews were there?
+### Vine Reviews
+![paid_review](.images/paid_vine_count.png)
+
+### Non-Vine Reviews
+![unpaid_review](.images/unpaid_vine_count.png)
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+### Vine 5 Star Reviews
+![paid_review_five_star](.images/five_star_rating_paid_vine_count.png)
+
+### Non-Vine 5 Start Reviews
+![unpaid_review_five_star](.images/five_star_rating_unpaid_vine_count.png)
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ## Summary
