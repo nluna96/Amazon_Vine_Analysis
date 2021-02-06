@@ -31,4 +31,6 @@ From 61,614 non-vine reviews 32,665 are 5 star reviews.
 (32,665/61,614) x 100 = 53%
 
 ## Summary
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+From the data above we were able to find that there is no positivity bias for reviews in the Vine program. When calculating the vine reviews percentage we found that 42% of the total vine reviews are 5 stars. While calculating the non-vine reviews percentage we found that 53% of the total non-vine reviews are 5 star. There is enough information in this dataset to state there is no positivity bias for reviews in the Vine program.
+
+Also, additional set of analysis that can be done to confirm there is no positivity bias for review in the Vine program, would be to run the same analysis for their entire Amazon US Reviews Dataset. It's posible that the dataset I chose happens to have a lower vine review 5 star percentage. To clearly define if the Vine program has a positivity bias for reviews all datasets need to be analysed. By doing this analysis all data regarding the Vine program is analyzed and then we can clearly identify if a positive bias for reviews in the Vine program exists.
